@@ -12,3 +12,6 @@ WiFi Connector
 DHT Sensor
 Adafriut GFX ( OLED Display ) 
 
+more info
+http://microcontrollerkits.blogspot.com/2016/12/esp8266-firebase.html
+
